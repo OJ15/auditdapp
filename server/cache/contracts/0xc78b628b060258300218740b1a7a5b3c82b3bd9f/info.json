@@ -1,0 +1,16 @@
+{
+    "time": 1713100393956,
+    "data": {
+        "address": "0xc78B628b060258300218740B1A7a5b3c82b3bd9f",
+        "circulating_market_cap": "57643779.18683321",
+        "decimals": "18",
+        "exchange_rate": "0.87704",
+        "holders": "3124",
+        "icon_url": "https://assets.coingecko.com/coins/images/35013/small/Wrapped_Commune_AI.png?1707103767",
+        "name": "Wrapped Commune AI",
+        "symbol": "wCOMAI",
+        "total_supply": "6917611171245019606229944",
+        "type": "ERC-20",
+        "volume_24h": "1326814.7898474347"
+    }
+}

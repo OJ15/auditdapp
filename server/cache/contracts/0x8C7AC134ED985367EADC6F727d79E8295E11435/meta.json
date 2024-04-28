@@ -1,0 +1,12 @@
+{
+    "data": {
+        "tokens": [null]
+    },
+    "errors": [{
+        "message": "Token not found",
+        "path": ["tokens", 0],
+        "extensions": {
+            "code": "NOT_FOUND"
+        }
+    }]
+}

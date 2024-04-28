@@ -1,0 +1,1 @@
+{"time":1713202462371,"data":{"code":1,"message":"ok","result":{"owner":{"owner_name":"owner()","owner_address":"0x0000000000000000000000000000000000000000","owner_type":"blackhole"},"privilege_withdraw":0,"withdraw_missing":0,"is_open_source":1,"blacklist":1,"contract_name":"Kekec","selfdestruct":0,"is_proxy":0,"approval_abuse":0}}}

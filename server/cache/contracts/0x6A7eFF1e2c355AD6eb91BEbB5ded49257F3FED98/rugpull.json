@@ -1,0 +1,1 @@
+{"time":1713456132773,"data":{"code":2,"message":"partial data obtained","result":{"owner":{"owner_name":"owner()","owner_address":"0x0000000000000000000000000000000000000000","owner_type":"blackhole"},"privilege_withdraw":0,"withdraw_missing":0,"is_open_source":1,"blacklist":0,"contract_name":"OpSec","selfdestruct":0,"is_proxy":0,"approval_abuse":0}}}

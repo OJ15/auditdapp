@@ -1,0 +1,61 @@
+{
+    "data": {
+        "tokens": [{
+            "address": "0xc78b628b060258300218740b1a7a5b3c82b3bd9f",
+            "decimals": 18,
+            "id": "0xc78b628b060258300218740b1a7a5b3c82b3bd9f:1",
+            "name": "Wrapped Commune AI",
+            "networkId": 1,
+            "symbol": "wCOMAI",
+            "imageLargeUrl": null,
+            "imageSmallUrl": null,
+            "imageThumbUrl": null,
+            "explorerData": {
+                "id": "0xc78b628b060258300218740b1a7a5b3c82b3bd9f:1",
+                "blueCheckmark": true,
+                "description": "",
+                "divisor": "18",
+                "tokenPriceUSD": "0.000000000000000000",
+                "tokenType": "ERC20",
+                "__typename": "ExplorerTokenData"
+            },
+            "info": {
+                "address": "0xc78b628b060258300218740b1a7a5b3c82b3bd9f",
+                "circulatingSupply": null,
+                "id": "0xc78b628b060258300218740b1a7a5b3c82b3bd9f:1",
+                "imageLargeUrl": null,
+                "imageSmallUrl": null,
+                "imageThumbUrl": null,
+                "isScam": null,
+                "name": "Wrapped Commune AI",
+                "networkId": 1,
+                "symbol": "wCOMAI",
+                "totalSupply": "6081138.679958291006229944",
+                "__typename": "TokenInfo"
+            },
+            "socialLinks": {
+                "bitcointalk": "",
+                "blog": "",
+                "coingecko": null,
+                "coinmarketcap": null,
+                "discord": "",
+                "email": "",
+                "facebook": "",
+                "github": "",
+                "instagram": null,
+                "linkedin": "",
+                "reddit": "",
+                "slack": "",
+                "telegram": "",
+                "twitch": null,
+                "twitter": "",
+                "website": "",
+                "wechat": "",
+                "whitepaper": "",
+                "youtube": null,
+                "__typename": "SocialLinks"
+            },
+            "__typename": "EnhancedToken"
+        }]
+    }
+}

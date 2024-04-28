@@ -1,0 +1,1 @@
+{"time":1713481778447,"data":{"code":2,"message":"partial data obtained","result":{"owner":{"owner_name":"owner()","owner_address":"0xa29f27402d6d3f8df2e1276683e7570855108500","owner_type":"eoa"},"privilege_withdraw":0,"withdraw_missing":0,"is_open_source":1,"blacklist":1,"contract_name":"TensorSpace","selfdestruct":0,"is_proxy":0,"approval_abuse":0}}}
